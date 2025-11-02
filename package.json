@@ -11,7 +11,7 @@
     "lint": "expo lint"
   },
   "dependencies": {
-    "@alireza-lavasani/afiyet-common": "^3.0.0",
+    "@alireza-lavasani/afiyet-common": "*",
     "@expo/vector-icons": "^15.0.2",
     "@react-native-community/datetimepicker": "8.4.4",
     "@react-navigation/bottom-tabs": "^7.4.0",
